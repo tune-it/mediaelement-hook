@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.tuneit</groupId>
     <artifactId>mediaelement-hook</artifactId>
-    <version>6.1.2.1</version>
+    <version>6.2.1.0</version>
     <packaging>war</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <liferay.auto.deploy.dir/>
-        <liferay.version>6.1.2</liferay.version>
-        <liferay.maven.plugin.version>6.1.2</liferay.maven.plugin.version>
+        <liferay.version>6.2.1</liferay.version>
+        <liferay.maven.plugin.version>6.2.1</liferay.maven.plugin.version>
     </properties>
     <name>mediaelement-hook</name>
     <build>
