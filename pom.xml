@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.tuneit</groupId>
     <artifactId>mediaelement-hook</artifactId>
-    <version>6.2.2.0</version>
+    <version>6.2.2.1</version>
     <packaging>war</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
